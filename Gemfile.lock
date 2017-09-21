@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/citusdata/pghero.git
-  revision: c04dee8fa869afc3c345d02060fd551348b8aede
+  revision: d0b930be21586e4844fbf8d50489058f68069850
   specs:
     pghero (2.0.5)
       activerecord
